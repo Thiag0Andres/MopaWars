@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1557271025 source:c:\users\pablo\desktop\programação\projetos codeblocks\projeto ip\mopa wars.c
+	"estrutura.h"
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1557338157 source:c:\users\pablo\desktop\programação\projetos codeblocks\projeto ip\estrutura.c
+	"estrutura.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1557271699 c:\users\pablo\desktop\programação\projetos codeblocks\projeto ip\estrutura.h
+
+1556286369 source:c:\users\pablo\desktop\programação\projetos codeblocks\projeto ip\character.c
+	"character.h"
+	<stdio.h>
+
+1556286064 c:\users\pablo\desktop\programação\projetos codeblocks\projeto ip\character.h
+
+1557183107 c:\users\pablo\desktop\programação\projetos codeblocks\projeto ip\menu.h
+
+1557271292 source:c:\users\pablo\desktop\programação\projetos codeblocks\projeto ip\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1557338157 source:c:\users\pablo\documents\projetos\programação\projetos codeblocks\projeto ip\estrutura.c
+	"estrutura.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1557271699 c:\users\pablo\documents\projetos\programação\projetos codeblocks\projeto ip\estrutura.h
+
+1557271292 source:c:\users\pablo\documents\projetos\programação\projetos codeblocks\projeto ip\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1557183107 c:\users\pablo\documents\projetos\programação\projetos codeblocks\projeto ip\menu.h
+
+1557271025 source:c:\users\pablo\documents\projetos\programação\projetos codeblocks\projeto ip\mopa wars.c
+	"estrutura.h"
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
